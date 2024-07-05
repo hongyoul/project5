@@ -5,6 +5,7 @@ import instance.student;
 // 테스트 클래스
 public class Ex2 {
 
+	// 오버로드 예제
 	public static void main(String[] args) {
 
 		Person person1 = new Person();
