@@ -12,7 +12,8 @@ public class student {
 		System.out.println(
 				"학번: " + studentID + ", 이름:" + studentName + ", 학년:" + grade + ", 주소: " + address);
 	}
-	
+
+
 	
 	
 }
